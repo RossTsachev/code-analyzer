@@ -11,11 +11,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "phpunit/phpunit": "~6.0",
-        "pdepend/pdepend": "2.5.0",
+        "phpunit/phpunit": "^7.5",
+        "pdepend/pdepend": "2.5.2",
         "phpmd/phpmd": "@stable",
         "squizlabs/php_codesniffer": "3.*",
-        "sebastian/phpcpd": "^3.0"
+        "sebastian/phpcpd": "^4.1"
     },
     "autoload": {
         "psr-4": {
